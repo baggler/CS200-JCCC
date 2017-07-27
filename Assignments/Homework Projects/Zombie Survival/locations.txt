@@ -1,0 +1,10 @@
+Forest			5	10
+Swamp			2	4
+Grasslands		6	2
+Ruins			3	3
+Freeway			2	5
+Cave			5	8
+Garden			7	9
+Suburbs			1	0
+Grotto			2	6
+Lake			3	4
